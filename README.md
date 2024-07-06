@@ -8,7 +8,7 @@
 <!-- Content -->
 <h1 id="Comet TOken Grabber">Comet Token Grabber</h1>
 <p>Comet Token Grabber, a powerful and feature-rich tool, offers the following functionalities:<br>
-   <a href="Yet To Create">Telegram Adress</a> - Join our Telegram channel for the latest developments
+   <a href="[Discord](https://discord.gg/u58MbBTVFm)">DIscord</a> - Join our Discord channel for the latest developments
 </p>
 
 <!-- Features Section -->
@@ -95,7 +95,7 @@
 
 <!-- Notes Section -->
 <h2 id="notes">Note's 📢</h2>
-<p>- If you have any issues or need support with this project, you can contact me via <a href="gurucharan.html">Discord</a>:speech_balloon:</p>
+<p>- If you have any issues or need support with this project, you can contact me via <a href="[Discord](https://discord.gg/u58MbBTVFm)">Discord</a>:speech_balloon:</p>
 
 
 
